@@ -81,6 +81,9 @@ p {
 .click-me:hover {
     background-color: #cc56cc;
 }
+.picture{
+    height: 25px;
+}
 
 .second-page{
     background-image: linear-gradient(to right, #f6c58e, #f89bff);
@@ -120,8 +123,10 @@ p {
 }
 .click-button{
     display: flex;
+    align-items: center;
     border: none;
     background-color: transparent;
+
 }
 
 @media screen and (max-width: 968px){
