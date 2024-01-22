@@ -178,7 +178,7 @@ p {
     }
     .two-images > img {
         height: 240px;
-        /* min-width: 100%; */
+        min-width: 100%;
         margin: 2px;
     }
     .second-page-content{
@@ -236,7 +236,7 @@ p {
     }
     .two-images > img {
         height: 240px;
-        /* min-width: 100%; */
+        min-width: 90%;
         margin: 2px;
     }
     .second-page-content{
