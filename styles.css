@@ -63,6 +63,9 @@ p {
     
 
 }
+.right-content{
+    width: 50%;
+}
 .right-content img {
     max-width: 100%;
     min-height: 100%;
@@ -205,6 +208,9 @@ p {
     p {
         font-size: 16px;
     }
+    .right-content{
+        width: 100%;
+    }
 
     .right-content img {
         max-width: 100%;
@@ -252,7 +258,9 @@ p {
     .left-content{
         order: 1;
     }
+
     .right-content{
+        width: 100%;
         order: 0;
     }
     h1 {
